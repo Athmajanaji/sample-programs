@@ -1,0 +1,12 @@
+a=input("Enter firt Number")
+b=input("Enter Second Number")
+add=a+b
+diff=a-b
+mul=a*b
+div=a/b
+mod=a%b
+print "Sum =",+add
+print "Difference = ",+diff
+print "Multiplication = ",+mul
+print "Division =",+div
+print "Modulo =",+mod
