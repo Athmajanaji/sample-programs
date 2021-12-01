@@ -1,0 +1,36 @@
+#header {
+  background-color: skyblue;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 2;
+  float:right;
+}
+li{
+ display:inline;
+ padding:2;
+ font-family:Times New Roman;
+}
+a.active {
+  background-color: #04AA6D;
+} 
+#hd {
+  background-color: lightblue;
+  padding:1;
+}
+.block{
+padding:1;
+
+}
+.list{
+padding:10;
+}
+
+#sign{
+float:right;
+padding:10;
+}
+.form{
+padding:5;
+}
